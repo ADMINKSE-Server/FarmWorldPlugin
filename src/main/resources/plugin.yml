@@ -1,0 +1,3 @@
+name: FarmWorldPlugin
+main: net.adminkse.plugins.farmworld.FarmWorldPlugin
+version: 1.0-SNAPSHOT
